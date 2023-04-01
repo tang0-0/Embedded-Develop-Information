@@ -10,6 +10,6 @@
 
 Share the information in embedded development, love & peace!
 
--Doc: documentation.
--Tool: easy to use tools for debugging. 
--Project: Open source projects for development learning.
+- Doc: documentation.
+- Tool: easy to use tools for debugging. 
+- Project: Open source projects for development learning.
